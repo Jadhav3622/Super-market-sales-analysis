@@ -1,2 +1,2 @@
 # super-market-sales-analysis
-python 
+python numpy pandas seaborn matplotlib
